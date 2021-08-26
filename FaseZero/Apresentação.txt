@@ -1,0 +1,13 @@
+Limite de tempo 20/25 seg
+
+> Nome
+  Idade
+  Estado Civil
+
+Opcionais:
+> Formações
+  Interesses
+  Hobbies
+
+Ordem:
+> Precisa ser em ordem.

@@ -1,0 +1,14 @@
+  O que são sintaxe e semântica?
+A sintaxe é a parte da gramática que se preocupa com a relação entre as palavras. A semântica forma o sentido.
+
+  Quantas linguagens de programação existem?
+A Wikipédia afirma que há aproximadamente 700 linguagens de programação, 
+enquanto outros dizem que esse número é mais perto de 9000!
+A verdade é que tem havido inúmeras linguagens de programação criadas ao longo da história.
+
+  Quais são as linguagens de programação mais utilizadas no mercado?
+Java
+PHP
+C
+Python
+JavaScript

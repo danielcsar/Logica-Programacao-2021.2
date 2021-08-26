@@ -1,0 +1,5 @@
+O que é indentação?
+Ação de indentar, de afastar o texto da sua margem, geralmente inserindo espaços entre a margem e o começo do parágrafo.
+
+O que é uma fonte monoespaçada? O editor de código usa isso?
+É uma fonte tipográfica cujas letras e caracteres ocupam o mesmo espaço horizontal.

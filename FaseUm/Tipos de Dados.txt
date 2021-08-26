@@ -1,0 +1,61 @@
+  Para cada informação abaixo, classifique segundo o tipo de dados.
+    
+    a) Quantidade de vendedores da loja
+    integer
+    
+    b) Nome da rua, com número e complemento
+    String
+
+    c) Preço do etanol comum
+    Real 
+
+    d) Estado de iluminação de uma lâmpada
+    Boolean
+
+    e) CEP do endereço, com hífen
+    String
+
+    f) Mostrador com um dígito dentro do elevador, indicando o andar do prédio onde ele está passando
+    integer
+
+    g) Led que indica o pressionamento do botão do elevador
+    Boolean
+
+    h) Data de aniversário do professor
+    Date;
+
+    i) Peso do prato na balança do restaurante
+    Float
+
+    j) Número de bois no curral da fazenda
+    integer
+
+    k) Dia completo da páscoa nesse ano
+    Date
+
+    l) Quantidade de laranjas na caixa
+    integer
+
+    m) Uma vogal minúscula
+    Char 
+
+    n) Título de um livro
+    String
+
+    o) Limite do cartão de crédito
+    Real 
+
+    p) Horário de transmissão do jogo
+    TimeStamp
+
+    q) Altura de um prédio
+    Float
+
+    r) Páginas do caderno
+    integer
+
+    s) Sala de reunião está disponível (ou ocupada)
+    Boolean
+
+    t) Alternativas do enunciado da questão de múltipla escolha
+    String

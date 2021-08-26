@@ -1,0 +1,16 @@
+  O que significa atribuição?
+  Ação ou efeito de atribuir, definir ou re-definir o valor armazenado no local de armazenamento 
+  indicado por um nome de variável.
+  
+  Quais são as regras para criação de nomes de variáveis?
+  Nomes de variáveis podem começar com letras ou com os símbolos $ ou _. 
+  Elas só podem conter letras, números, $ e _.
+  Elas não podem começar com um número.
+
+  Qual a diferença entre declaração e expressão?
+  As declarações representam uma ação ou um comando.
+  Expressão é uma combinação de variáveis, operações e valores que gera um valor de resultado.
+
+  Como funciona Math.random()?
+  A função Math. random() retorna um número pseudo-aleatório no intervalo [0, 1[ , ou seja, 
+  de 0 (inclusivo) até, mas não incluindo, 1 (exclusivo), que depois você pode dimensionar para um intervalo desejado.

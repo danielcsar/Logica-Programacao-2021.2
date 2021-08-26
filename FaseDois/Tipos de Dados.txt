@@ -1,0 +1,61 @@
+  Atribuição de variáveis.
+    
+    a) Quantidade de vendedores da loja
+    integer quantidade = 5
+    
+    b) Nome da rua, com número e complemento
+    String endereco = "Rua Um, Número 2 Casa 3"
+
+    c) Preço do etanol comum
+    Real precoEtanol = 4.01
+
+    d) Estado de iluminação de uma lâmpada
+    Boolean lampada = true
+
+    e) CEP do endereço, com hífen
+    String cep = 11111-111
+
+    f) Mostrador com um dígito dentro do elevador, indicando o andar do prédio onde ele está passando
+    integer elevador = 01
+
+    g) Led que indica o pressionamento do botão do elevador
+    Boolean ledElevador = true
+
+    h) Data de aniversário do professor
+    Date dateMoises = 01/01/99
+
+    i) Peso do prato na balança do restaurante
+    Float balanca = 2,150
+
+    j) Número de bois no curral da fazenda
+    integer bois = 50
+
+    k) Dia completo da páscoa nesse ano
+    Date pascoa = 10/03/21
+
+    l) Quantidade de laranjas na caixa
+    integer laranjas = 5
+
+    m) Uma vogal minúscula
+    Char vogal = "A"
+
+    n) Título de um livro
+    String tituloLivro = "A casa"
+
+    o) Limite do cartão de crédito
+    Real creditLimit = 1500.00
+
+    p) Horário de transmissão do jogo
+    TimeStamp timeJogo = 13:00 
+
+    q) Altura de um prédio
+    Float altura = 1500
+
+    r) Páginas do caderno
+    integer paginas = 300
+
+    s) Sala de reunião está disponível (ou ocupada)
+    Boolean room = false
+
+    t) Alternativas do enunciado da questão de múltipla escolha
+    String options = "a,b,c,d"
